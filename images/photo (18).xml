@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>photo (18).jpg</filename>
+	<path>D:\Mask recognition\models\research\object_detection\images\train\photo (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>414</ymin>
+			<xmax>637</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>
