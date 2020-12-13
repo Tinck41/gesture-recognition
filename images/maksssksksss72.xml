@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bez</folder>
+	<filename>maksssksksss72.png</filename>
+	<path>E:\foto\bez\maksssksksss72.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>225</ymin>
+			<xmax>345</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

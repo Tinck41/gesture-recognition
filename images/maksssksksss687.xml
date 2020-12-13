@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maska</folder>
+	<filename>maksssksksss687.png</filename>
+	<path>E:\foto\maska\maksssksksss687.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>326</ymin>
+			<xmax>276</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>
